@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/event-calendar-manager-637407-637416/calendar_frontend"
+}
